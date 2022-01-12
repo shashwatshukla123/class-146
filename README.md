@@ -1,6 +1,6 @@
 # class-146
 # https://aframe.io/docs/1.2.0/core/entity.html
-## We can use the animation component in A-Frame for orbiting planets around the sun.
+We can use the animation component in A-Frame for orbiting planets around the sun.
 We can mention the “property” we want to animate and set different attributes for that property such as “from”, “to”, “dur”, “easing”, “loop” etc. ,to animate the entity.
 property: Property to animate, it can be component name, property of any component,or just an attribute.
 from: The initial value of the property, if not specified the current property value of the entity will be used.
